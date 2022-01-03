@@ -1,0 +1,31 @@
+@media(min-width: 768px) {
+	.news-input {
+		width: 50%;
+	}
+}
+
+@media(min-width: 768px) {
+	#beginner-img {
+		height: 180px;
+	}
+}
+
+@media(min-width: 1200px) {
+	#beginner-img {
+		height: 210px;
+	}
+}
+
+@media(min-width: 1400px) {
+	#beginner-img {
+		height: 255px;
+	}
+}
+
+#accordion-header {
+	font-family: lucida handwriting;
+}
+
+#list {
+	list-style: none;
+}
